@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_04 - Transferring Data Polubenskiy</string>
+
+    <string name="activity_1">Activity_1</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="buttonOpenDialog">Open dialog</string>
+    <string name="buttonExit">Exit</string>
+    <string name="buttonOk">Ok</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="switch_1">Switch_1</string>
+    <string name="switch_2">Switch_2</string>
+    <string name="DialogBox">Dialog Box</string>
+
+</resources>
